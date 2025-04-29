@@ -25,7 +25,7 @@ API: OpenWeatherMap
 bash
 Copy
 Edit
-git clone https://github.com/ireneiroha/Weather-App.git
+git clone https://github.com/ireneiroha/weather-app-project
 cd weather-app
 2. Create a virtual environment
 bash
@@ -102,7 +102,4 @@ Bootstrap
 📜 License
 This project is open-source and available under the MIT License.
 
-Would you like me to also generate:
 
-
-A basic index.html template with a nice weather UI? 🎨
